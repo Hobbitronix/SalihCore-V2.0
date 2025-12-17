@@ -5,7 +5,7 @@ SalihCore-V2.0 is a custom STM32-based development board designed for embedded s
 The PCB was designed using **Altium Designer** and implemented as a **4-layer board with controlled impedance**, making it suitable for reliable high-speed signals and future scalability.
 
 ---
-![](Images/3d-view.ping)
+![](Images/3d-view.png)
 ![](Images/board.jpeg)
 
 
